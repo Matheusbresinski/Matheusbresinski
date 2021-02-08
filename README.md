@@ -1,6 +1,7 @@
 ### Hi there 👋
-#### 🎓 Técnico em Informática - IFES - Campus Cachoeiro de Itapemirim
-#### 🌱 Estudante de Sistemas de Informação - IFES - Campus Cachoeiro de Itapemirim
+####    Programador Delphi - EquipeNet Sistemas
+####    Técnico em Informática - IFES - Campus Cachoeiro de Itapemirim
+####    Estudante de Sistemas de Informação - IFES - Campus Cachoeiro de Itapemirim
 <p align="center">
  <img 
       width="50%" 
