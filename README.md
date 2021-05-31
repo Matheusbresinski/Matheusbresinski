@@ -1,5 +1,5 @@
 ### Hi there 👋
-####    Programador Delphi - EquipeNet Sistemas
+####    Programador
 ####    Técnico em Informática - IFES - Campus Cachoeiro de Itapemirim
 ####    Estudante de Sistemas de Informação - IFES - Campus Cachoeiro de Itapemirim
 <p align="center">
