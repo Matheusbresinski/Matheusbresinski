@@ -1,7 +1,7 @@
 ### Hi there 👋
-####    Programador
-####    Técnico em Informática - IFES - Campus Cachoeiro de Itapemirim
-####    Estudante de Sistemas de Informação - IFES - Campus Cachoeiro de Itapemirim
+####    Full Stack Web Developer
+####    Technician / Technology in Informatics / Software - IFES - Campus Cachoeiro de Itapemirim
+####    Bachelor's degree / Information Technology - IFES - Campus Cachoeiro de Itapemirim
 <p align="center">
  <img 
       width="50%" 
