@@ -1,7 +1,7 @@
 ###  Hi there 👋
 ####   :computer: Full Stack Web Developer :computer:
 ####  :mortar_board: Technician / Technology in Informatics / Software - IFES - Campus Cachoeiro de Itapemirim 
-####  :mortar_board:  Bachelor's degree / Information Technology - IFES - Campus Cachoeiro de Itapemirim 
+####  :mortar_board:  Bachelor's degree / Software Engineering - Faculdade Pitagoras - Campus Cachoeiro de Itapemirim 
 <p align="center">
  <img 
       width="50%" 
